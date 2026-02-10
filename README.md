@@ -1,0 +1,3 @@
+This repository contains the strategic slide deck and supporting research for the **1Buy.AI Case Study**. Our solution positions 1Buy.AI not just as a software tool, but as the **"Neutral Standard"** for the global electronics supply chain.
+
+By bridging the gap between **Intelligence** (Data) and **Execution** (Sourcing) without the conflict of interest inherent in traditional distributors, we propose a roadmap to unlock **15–20% cost savings** for Tier-2 EMS and OEM players.
